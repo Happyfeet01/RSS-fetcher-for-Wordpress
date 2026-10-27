@@ -29,3 +29,14 @@ Die Ergebnisse der Verarbeitung können auf verschiedene Weisen genutzt werden:
 	•	Blog-Posts: Du kannst die zusammengefassten Artikel in deinem Blog veröffentlichen.
 	•	Social Media: Automatisiere das Posten von Zusammenfassungen auf Social-Media-Plattformen.
 	•	Newsletter: Erstelle einen täglichen oder wöchentlichen Newsletter mit den wichtigsten Nachrichten.
+
+
+---
+
+### Support / Unterstützung
+
+If my open-source contributions are useful to you, you can support my work voluntarily. Feedback, bug reports and contributions are just as welcome.
+
+Wenn dir meine Open-Source-Beiträge helfen, freue ich mich über freiwillige Unterstützung. Auch Feedback, Fehlermeldungen und Pull Requests helfen weiter.
+
+[Buy Me a Coffee](https://buymeacoffee.com/sly5ir9ov) · [PayPal](https://paypal.me/LarsM1980)
